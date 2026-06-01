@@ -1,4 +1,4 @@
-﻿# Inventory Management System
+﻿# Inventory Management 
 Frontend (Vercel):	https://inventory-frontend-nine-gray.vercel.app  
 
 Backend API (Render):	https://inventory-backend-b3gv.onrender.com  
